@@ -1,5 +1,3 @@
-hello world!
+hello
 world
 test
-sky
-ocean
